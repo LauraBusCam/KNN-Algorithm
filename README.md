@@ -8,7 +8,6 @@ Este repositório contém a implementação do algoritmo k-Nearest Neighbors (KN
 - **selecionaElementoSublista:** Seleciona todos os elementos de um índice x das sublistas de uma lista.
 - **maisComum:** Seleciona o elemento mais frequente dentro de uma lista.
 - **algoritmoKNN:** Aplica o algoritmo de classificação KNN.
-- **previstoEhReal:** Retorna se a classificação prevista é igual a classificação esperada.
 - **selecionaMelhorK:** Seleciona o número k de vizinhos com a maior acurácia de acordo com uma base de treino e de uma de teste.
 
 ## Estrutura:
